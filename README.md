@@ -20,7 +20,7 @@ There are no data analyses steps done so far, any insights, tips and improvement
 ## Technologies Used
 Python Programming, SQL programming, Panda and Numpy libraries
 ## Support and contact details
-Ideas, questions, and support can be sent to email: glydia948@gmail.com
+Ideas, questions, and support can be sent to email: glydia94@gmail.com
 ### License
 *MIT*
 Copyright (c) 2019 **Moringa School Data Science**
