@@ -19,7 +19,8 @@ This is a data preparation and analysis project whose objective is to create a s
 There are no data analyses steps done so far, any insights, tips and improvements are encouraged.
 
 ## Technologies Used
-Python Programming, SQL programming, Panda and Numpy libraries
+* Python 
+* Panda and Numpy libraries
 ## Support and contact details
 Ideas, questions, and support can be sent to email: glydia94@gmail.com
 ### License
