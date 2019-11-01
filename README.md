@@ -16,7 +16,7 @@ This is a data preparation and analysis project whose objective is to create a s
 * Cleaning data; Renaming columns and dropping insignificant columns.
 * Create a new column to separate data_time column
 ## Known Bugs
-There are no data analyses steps done so far, any insights, tips and improvements are encouraged.
+None so far any insights, tips and improvements are encouraged.
 
 ## Technologies Used
 * Python 
