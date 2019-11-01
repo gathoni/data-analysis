@@ -6,7 +6,7 @@ Python Notebook that contains data preparation and data analysis
 # Python Data Science Project
 #### Currently MTN Cote d'Ivoire would like to upgrade its technology infrastructure for its mobile users in Ivory Coast. Studying the given dataset, I would like to find out how MTN Cote d'Ivoire willl go about the upgrade of its infrastructure strategy within the given cities.
 #### By **Lydia Gathoni**
-#### **November, 2019**
+*November, 2019*
 ## Description
 This is a data preparation and analysis project whose objective is to create a strategy for MTN Cote D'Ivore to upgrade its technology infrastructure for its mobile users in Cote d'Ivoire
 ## Setup/Installation Requirements
